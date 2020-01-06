@@ -2,6 +2,7 @@
 title: Welcome to the Blog!
 date: "2020-01-06"
 featuredImage: './featured.jpg'
+tags: ["welcome"]
 ---
 
 Welcome to my muddled Pensieve, I hope you enjoy your stay! This is a place to share my meanderings through life, covering everything from all things development to Disney.
