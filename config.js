@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Dev Blog', // Required
+  title: 'Muddled Pensieve', // Required
   author: 'Neil Garner', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
