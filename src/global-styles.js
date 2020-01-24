@@ -57,5 +57,9 @@ const GlobalStyle = createGlobalStyle`
       }
     }
   }
+
+  .tag-list {
+      text-decoration: none;
+  }
 `;
 export default GlobalStyle;
