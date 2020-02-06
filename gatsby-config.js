@@ -64,5 +64,20 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
+    {
+        resolve: `gatsby-theme-material-ui`,
+        options: {
+            webFontsConfig: {
+              fonts: {
+                google: [
+                  {
+                    family: `Montserrat`,
+                    variants: [`300`, `400`, `500`],
+                  },
+                ],
+              },
+            },
+          }   
+    }
   ],
 };

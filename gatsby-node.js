@@ -78,7 +78,6 @@ exports.createPages = ({ graphql, actions }) => {
                 })
 
                 tags = _.uniq(tags)
-                console.log('>>>>>>>>>>>>>>>>>>>>>>', tags)
 
                 // Make tag pages
                 tags.forEach(tag => {

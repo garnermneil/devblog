@@ -7,7 +7,7 @@
     "url": "https://github.com/ryanfitzgerald/devblog/issues"
   },
   "dependencies": {
-    "@material-ui/core": "^4.9.0",
+    "@material-ui/core": "^4.9.1",
     "@material-ui/icons": "^4.5.1",
     "gatsby": "^2.0.31",
     "gatsby-image": "^2.2.37",
@@ -24,10 +24,10 @@
     "gatsby-remark-responsive-iframe": "^2.0.5",
     "gatsby-remark-smartypants": "^2.0.5",
     "gatsby-source-filesystem": "^2.0.5",
+    "gatsby-theme-material-ui": "^1.0.8",
     "gatsby-transformer-remark": "^2.1.9",
     "gatsby-transformer-sharp": "^2.1.5",
     "lodash": "^4.17.5",
-    "material-ui": "^0.20.2",
     "prismjs": "^1.15.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",

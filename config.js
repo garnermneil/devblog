@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Muddled Pensieve', // Required
   author: 'Neil Garner', // Required
-  description: 'Full-stack Web Developer',
+  description: 'Husband, Father and Full-stack Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,

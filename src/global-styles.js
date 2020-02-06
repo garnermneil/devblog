@@ -13,7 +13,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   html {
-    font-size: 62.5%;
+    // font-size: 62.5%;
+    font-size: 80%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     box-sizing: border-box;
